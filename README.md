@@ -1,7 +1,7 @@
 ## Projeto end to end de ciência de dados
 
 Estamos aprendendo a criar um projeto!
-[ ] Criar o ambiente virtual
-[ ] Subir para o git
-[ ] Criar uma aplicação Streamlit
+[X] Criar o ambiente virtual
+[X] Subir para o git
+[X] Criar uma aplicação Streamlit
 [ ] Subir para o heroku
