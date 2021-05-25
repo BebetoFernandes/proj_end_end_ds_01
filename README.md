@@ -1,4 +1,4 @@
-## Projeto end to end de ciência de dados
+## Projeto end to end de aplicação com Python
 
 Estamos aprendendo a criar um projeto!
 - [X] Criar o ambiente virtual
