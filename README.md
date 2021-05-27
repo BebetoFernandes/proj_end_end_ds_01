@@ -6,4 +6,4 @@ Estamos aprendendo a criar um projeto!
 - [X] Criar uma aplicação Streamlit
 - [X] Subir para o heroku
 
-[Clique aqui para acessar a ferramenta](https://af-imc-calculator.herokuapp.com/git)
+[Clique aqui para acessar a ferramenta](https://af-imc-calculator.herokuapp.com/)
